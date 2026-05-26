@@ -1,0 +1,10 @@
+*.pyd
+data (1)/
+data (2)/
+SampleData/
+*.csv
+*.xlsx
+*.json
+*.xml
+*.pyc
+__pycache__/
