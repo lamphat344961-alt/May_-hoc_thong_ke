@@ -9,3 +9,5 @@ SampleData/
 *.pyc
 __pycache__/
 *.xls
+*.txt
+
